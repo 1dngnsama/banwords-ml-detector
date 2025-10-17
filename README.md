@@ -1,1 +1,1 @@
-"# banwords-ml-detector" 
+# banwords-ml-detector
