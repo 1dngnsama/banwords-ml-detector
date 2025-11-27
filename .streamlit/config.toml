@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#8df113b8"                # Neon Purple (EVA core)
+backgroundColor="#6b82fe"             # Dark Evangelion cockpit
+secondaryBackgroundColor="#5e73eba7"    # Deep purple-black
+textColor="#ffffff"                   # A.T. Field Neon Green
+font="sans serif"
